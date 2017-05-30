@@ -20,7 +20,7 @@ setup(
     py_modules=['paginator'],
     include_package_data=True,
     install_requires=[
-        "six==1.9.0"
+        "six==1.10.0"
     ],
     keywords=["pagination", "paginate", "page", "flask", "jinja2", "sqlalchemy"],
     platforms='any',
